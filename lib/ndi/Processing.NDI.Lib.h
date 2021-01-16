@@ -154,4 +154,5 @@ bool NDIlib_is_supported_CPU(void);
 // The C++ implementations
 #if NDILIB_CPP_DEFAULT_CONSTRUCTORS
 #include "Processing.NDI.Lib.cplusplus.h"
+#include "iostream"
 #endif // NDILIB_CPP_DEFAULT_CONSTRUCTORS
